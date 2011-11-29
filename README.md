@@ -48,14 +48,3 @@ __Parameters__
 `showNumbers` &mdash; boolean: display image numbering (default: true).
 
 `showCaptions` &mdash; boolean: display image captions (default: true).
-
-
-## Best Practices
-
-- 
-
-### Example #1
-
-### Example #2
-
-## Future plans for imageWall
