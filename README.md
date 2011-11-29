@@ -45,9 +45,9 @@ Add an item to the list of parallaxing layers. Ranges are centered at the items 
 
 __Parameters__
 
-`showNumbers` &mdash; boolean(true): display image numbering.
+`showNumbers` &mdash; boolean: display image numbering (default: true).
 
-`showCaptions` &mdash; boolean(true): display image captions.
+`showCaptions` &mdash; boolean: display image captions (default: true).
 
 
 ## Best Practices
