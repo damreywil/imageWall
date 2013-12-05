@@ -41,7 +41,7 @@ $("#gallery-3").imageWall({
 
 ### imageWall()
 
-Add an item to the list of parallaxing layers. Ranges are centered at the items start location. For example, an item with a 20px range will be able to move 10px forward and 10px backward from its start location.
+...
 
 __Parameters__
 
